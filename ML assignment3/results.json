@@ -1,0 +1,18 @@
+{
+    "best_hyperparameters": {
+        "SVC": {
+            "C": 1,
+            "gamma": "scale",
+            "kernel": "rbf"
+        },
+        "SVR": {
+            "C": 10,
+            "epsilon": 0.1,
+            "kernel": "rbf"
+        }
+    },
+    "cv_stability": {
+        "SVC_accuracy": "0.8981 +/- 0.0025",
+        "SVR_r2": "0.9135 +/- 0.0267"
+    }
+}
